@@ -111,3 +111,27 @@
   align-items: center;
   justify-content: center;
 }
+
+@media only screen and (max-width: 480px) {
+  body {
+    background-color: lightblue;
+  }
+  .container {
+    width: 100%;
+  }
+  .tabs-container {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  body {
+    background-color: lightblue;
+  }
+  .container {
+    width: 80%;
+  }
+  .tabs-container {
+    width: 100%;
+  }
+}
