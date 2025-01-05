@@ -1,7 +1,5 @@
 # This is how this app works
 
-Go inside my-app directory
-
 ### `npm install`
 
 Installs all the needed dependencies.
